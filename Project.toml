@@ -1,7 +1,7 @@
 name = "Curious"
 uuid = "3599606c-47d7-426b-b14f-ed4dc61d85bf"
 authors = ["Semiotic Labs"]
-version = "0.1.0"
+version = "0.0.0"
 
 [compat]
 julia = "1.8"
