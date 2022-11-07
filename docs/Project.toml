@@ -1,0 +1,3 @@
+[deps]
+Curious = "3599606c-47d7-426b-b14f-ed4dc61d85bf"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
